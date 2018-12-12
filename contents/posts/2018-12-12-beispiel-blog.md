@@ -7,7 +7,7 @@ tags: sampletag
 author: Mark
 ---
 
-This blog post shows a few different types of content that's supported and styled with Markdown. Basic typography, images, and code are all supported.
+Wie bekomme ich die Bilder hier rein?
 
 -----
 
@@ -45,3 +45,6 @@ Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a p
 3. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
 Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMTUwNzIwMjNdfQ==
+-->
