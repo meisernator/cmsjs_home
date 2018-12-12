@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
+title: Beispielpost
 excerpt: This blog post shows a few different types of content that's supported and styled with Markdown. Basic typography, images, and code are all supported.
-date: 2018-03-01
+date: 2018-12-11
 tags: sampletag
-author: Mark
+author: Timo
 ---
 
 Wie bekomme ich die Bilder hier rein?
@@ -46,5 +46,5 @@ Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a p
 
 Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUwNzIwMjNdfQ==
+eyJoaXN0b3J5IjpbNzczMTQ0OTU1LC0xMzE1MDcyMDIzXX0=
 -->
